@@ -44,7 +44,7 @@ ok "설치 완료: $DEST/SsakSsak.app"
 
 if [ "${SSAKSSAK_NO_OPEN:-0}" != "1" ]; then
   open "$DEST/SsakSsak.app"
-  ok "실행 완료 (메뉴바의 상자 속 고양이)"
+  ok "실행 완료"
 fi
 echo
 echo "  처음이면 '전체 디스크 접근'을 켜 두면 남은 파일까지 찾아요 (권장):"
