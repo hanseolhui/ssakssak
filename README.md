@@ -8,6 +8,7 @@
 - ⬇️ **다운로드 (애플 공증):** [최신 릴리스](https://github.com/hanseolhui/ssakssak/releases/latest) · `brew install --cask hanseolhui/tap/ssakssak`
 - 소개 · Pro: [apps.seoriarts.com/ssakssak](https://apps.seoriarts.com/ssakssak)
 - 유니버설 (애플 실리콘 + 인텔) · macOS 13 이상
+- 한국어 · English · 日本語 · 中文 (시스템 언어를 따르고, 설정 → 일반 → 언어에서 바꾸기)
 
 ## 🚀 설치
 
